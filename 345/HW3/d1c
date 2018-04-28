@@ -1,0 +1,9 @@
+Deliverable 1 discussion:
+In the program d1afork.c, the child process is assigned a value of 1.
+The fork() command makes it so that the parent and child processes execute concurrently.
+This means that since parent is assigned statement 2 and the child is assigned process 1,
+the code executes the statements in the order of 2, 1, 3, and 4.
+This is because the parent has precedence over the child (even though they technically run concurrently)
+and the parent executes its statement before the child.
+In the d1bvfork.c program, the child process executes first because the vfork() command lets the child execute
+first, and then the parent. This makes the output 1, 2, 3, and 4.

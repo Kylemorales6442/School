@@ -1,0 +1,13 @@
+In order to have all of the code compile in sequence and all of the outputs placed inside of the report text file, type 'make homework' in the terminal while in the directory for this folder.
+
+This assignment was completed with a few shared ideas with Kenton Wilhelm, so there might be some code similarities.
+
+When compiling some programs and comparing the output displayed on the terminal vs the output that the make file appended to the report, some things were displayed in an incorrect manner. For example, in the first task (0a), the parent and child processes would alternate in the output when in the terminal, however, after the make file inserts the output into the report text file it has all of the parent processes displayed, then the child processes.
+
+I think that this is an issue with how the make file works and not something that I could really change with my current knowledge of bash and make files.
+
+Besides that, everything else should be in order and displayed in the report.
+
+The discussion for deliverable 1c was appended to the report, and the part for 2a (identifying critical section) was commented in the 'd2' (deliverable 2) program.
+
+Last thing: I had added a terminator variable to the code in deliverable 2 because it seemed to run forever without a stop condition. It's a variable that starts at a fixed value and decremements everytime something is produced. Once this value reaches zero, the program terminates.
