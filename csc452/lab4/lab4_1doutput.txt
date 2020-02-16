@@ -1,0 +1,4 @@
+Success {'StartingInstances': [{'CurrentState': {'Code': 16, 'Name': 'running'}, 'InstanceId': 'i-0875912a751c3434c', 'PreviousState': {'Code': 16, 'Name': 'running'}}], 'ResponseMetadata': {'RequestId': '31daed71-ed89-4e14-864d-47c578e2d4cf', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '580', 'date': 'Tue, 29 Oct 2019 19:25:47 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0

@@ -1,0 +1,4 @@
+Success {'KeyPairs': [{'KeyFingerprint': '4d:6f:d1:1b:98:bf:d3:09:7a:02:33:a6:29:ec:c7:99:7a:30:4d:12', 'KeyName': 'lab3key'}, {'KeyFingerprint': 'e0:d2:d4:d1:66:31:f7:25:a0:21:f8:77:df:cf:a7:b5:8b:ff:5b:2b', 'KeyName': 'lab_3key'}], 'ResponseMetadata': {'RequestId': '3a70cf06-35f1-4150-88f5-3f4d8db06961', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '585', 'date': 'Tue, 29 Oct 2019 19:28:55 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0
